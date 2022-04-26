@@ -16,7 +16,7 @@ For collecting information of superstars
 
 ### Japan
 
-[松冈千菜（松冈 ちな、まつおか ちな）](松冈千菜（松冈 ちな、まつおか ちな）.md)
+[松冈千菜（松冈 ちな、まつおか ちな）](松冈千菜.md)
 
 
 
